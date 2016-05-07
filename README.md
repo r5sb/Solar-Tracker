@@ -8,5 +8,4 @@ Files included are:
 <li>LDR board schematic.</li>
 <li>LDR board .brd file.</li>
 <li>Main code.</li>
-
 All schematics and board layouts are made in Eagle 7.2.0. 
